@@ -9,12 +9,10 @@ pygments: true
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title:      /var/log/obfusk
-tagline:    "hacking => !sleep"
+title:    /var/log/obfusk
 author:
-  name:     Felix C. Stegerman
-  email:    flx@obfusk.net
-  github:   obfusk
+  name:   Felix C. Stegerman
+  email:  flx@obfusk.net
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
