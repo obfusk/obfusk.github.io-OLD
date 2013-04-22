@@ -11,9 +11,8 @@ coffeescript, css, html; debian, ubuntu; gnu, linux; vim; free
 software; ...
 
 Most of my code is on GitHub:
-
-  * https://github.com/obfusk (private),
-  * https://github.com/noxqsgit (work).
+[obfusk](https://github.com/obfusk) (private),
+[noxqsgit](https://github.com/noxqsgit) (work).
 
 \- Felix
 
