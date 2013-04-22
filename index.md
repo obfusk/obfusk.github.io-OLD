@@ -14,15 +14,7 @@ Most of my code is on GitHub:
 [obfusk](https://github.com/obfusk) (private),
 [noxqsgit](https://github.com/noxqsgit) (work).
 
+&rarr; [Archive](/archive.html)
+
+<br/>
 \- Felix
-
-## Posts
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li>
-      <span>{{ post.date | date_to_string }}</span> &raquo;
-      <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
