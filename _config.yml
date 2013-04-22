@@ -2,7 +2,7 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title
 
-exclude: ["*~", "*.swp", "README.md", "Rakefile", "changelog.md"]
+exclude: ["*~", "*.swp", "README.md", "Rakefile", "changelog.md", "etc"]
 auto: true
 pygments: true
 
